@@ -1,0 +1,60 @@
+
+.hero a
+{
+    max-width: 160px;
+    color: red;
+    background-color: transparent;
+    border: 2px solid rgb(22, 22, 22);
+    cursor: pointer;
+    padding: 10px 10px;
+    border-radius: 10px;
+    border-color: red;
+    text-decoration: none;
+
+}
+
+.hero a:hover
+{
+    
+    color:white;
+    background-color: red;
+    transition: 0.7s;
+   
+}
+
+
+
+.backig
+{
+    margin-left: 6%;
+    margin-right:6%;
+    height: 35vh;
+    background-image: url(/images/BI.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+}
+
+
+
+.price a
+{
+  
+  border: 1px solid rgb(15, 151, 231);
+  border-radius: 10px;
+  text-decoration: none;
+  color: rgb(15, 151, 231);
+}
+
+
+.price a:hover
+{
+    background-color:rgb(15, 151, 231) ;
+    color: white;
+    transition: 0.7s;
+}
+.footer
+{
+ background-color: rgba(223, 221, 221, 0.812);
+ 
+}
